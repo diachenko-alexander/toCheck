@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\bin\Debug\AdditioanalTask.exe.config
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\bin\Debug\AdditioanalTask.exe
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\bin\Debug\AdditioanalTask.pdb
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\obj\Debug\AdditioanalTask.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\obj\Debug\AdditioanalTask.exe
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\AdditioanalTask\obj\Debug\AdditioanalTask.pdb

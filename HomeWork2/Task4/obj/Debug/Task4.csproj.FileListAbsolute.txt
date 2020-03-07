@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\bin\Debug\Task4.exe.config
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\bin\Debug\Task4.exe
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\bin\Debug\Task4.pdb
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\obj\Debug\Task4.exe
+C:\Users\Alex\source\repos\csharpProffesionalHW\HomeWork2\Task4\obj\Debug\Task4.pdb

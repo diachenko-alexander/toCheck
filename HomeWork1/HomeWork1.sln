@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTask", "proffesionalHW1\AdditionalTask.csproj", "{5B9F4C35-6AE6-45F5-B00F-5D198003E97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{531F8745-343A-4EE5-9E7A-8B865D6D970D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{3B3DD0E6-D482-4FF6-AF12-C97A7AD04BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9F4C35-6AE6-45F5-B00F-5D198003E97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9F4C35-6AE6-45F5-B00F-5D198003E97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9F4C35-6AE6-45F5-B00F-5D198003E97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9F4C35-6AE6-45F5-B00F-5D198003E97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531F8745-343A-4EE5-9E7A-8B865D6D970D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531F8745-343A-4EE5-9E7A-8B865D6D970D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531F8745-343A-4EE5-9E7A-8B865D6D970D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531F8745-343A-4EE5-9E7A-8B865D6D970D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3DD0E6-D482-4FF6-AF12-C97A7AD04BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3DD0E6-D482-4FF6-AF12-C97A7AD04BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3DD0E6-D482-4FF6-AF12-C97A7AD04BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3DD0E6-D482-4FF6-AF12-C97A7AD04BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1748E0-2E07-4329-AD87-CEEF0D6FF9E4}
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,0 @@
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\bin\Debug\AdditionalTask.exe.config
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\bin\Debug\AdditionalTask.exe
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\bin\Debug\AdditionalTask.pdb
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\obj\Debug\AdditionalTask.csprojAssemblyReference.cache
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\obj\Debug\AdditionalTask.exe
-C:\Users\alexander.diachenko\Documents\C#\csharpProfessionalHW\HomeWork3\AdditionalTask\obj\Debug\AdditionalTask.pdb

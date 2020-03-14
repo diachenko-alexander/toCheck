@@ -1,0 +1,5 @@
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\AdditionalTask\obj\Debug\AdditionalTask.pdb

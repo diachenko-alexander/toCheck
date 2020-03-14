@@ -1,0 +1,44 @@
+﻿<Window x:Class="Task4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Task4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="MainWindowLoaded">
+    <TabControl HorizontalAlignment="Left" Height="390" Margin="19,24,0,0" VerticalAlignment="Top" Width="759">
+        <TabItem Header="Text">
+            <Grid Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0*"/>
+                    <ColumnDefinition Width="0*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Name="TextBlock" HorizontalAlignment="Left" Margin="1,21,0,0" TextWrapping="Wrap" Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." VerticalAlignment="Top" Height="317" Width="710" Grid.Column="1" Grid.ColumnSpan="2"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Settings">
+            <Grid Background="#FFE5E5E5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="246*"/>
+                </Grid.ColumnDefinitions>
+                <xctk:ColorPicker Name="ColorPickerBackgroundColor" Margin="140,16,360,310" DisplayColorAndName="True" SelectedColorChanged="cp_SelectedBackColorChanged_1" AvailableColorsSortingMode="HueSaturationBrightness" RenderTransformOrigin="0.5,0.5" Grid.Column="2" >
+                    
+                </xctk:ColorPicker>
+                <Button Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="7,295,0,0" VerticalAlignment="Top" Width="130" Height="41" Click="SaveButtonClick" Grid.Column="2"/>
+                <Label Content="Background Color" HorizontalAlignment="Left" Margin="7,20,0,0" VerticalAlignment="Top" Height="29" Width="109" Grid.Column="2"/>
+                <Label Content="Text Color" HorizontalAlignment="Left" Margin="7,81,0,0" VerticalAlignment="Top" Height="30" Width="109" Grid.Column="2"/>
+                <Label Content="Text Size" HorizontalAlignment="Left" Margin="7,146,0,0" VerticalAlignment="Top" Height="36" Width="109" Grid.Column="2"/>
+                <Label Content="Style" HorizontalAlignment="Left" Margin="7,213,0,0" VerticalAlignment="Top" Height="36" Width="109" Grid.Column="2"/>
+                <xctk:ColorPicker x:Name="ColorPickerTextColor" Margin="143,75,361,252" DisplayColorAndName="True" SelectedColorChanged="cp_SelectedTextColorChanged_1" AvailableColorsSortingMode="HueSaturationBrightness" RenderTransformOrigin="0.5,0.5" Grid.Column="2" >
+                   
+                </xctk:ColorPicker>
+                <ComboBox Name="TextSizeBox" HorizontalAlignment="Left" Margin="139,146,0,0" VerticalAlignment="Top" Width="237" Height="36" SelectionChanged="ComboBox_TextSize_SelectionChanged" Grid.Column="2"/>
+                <ComboBox Name="StyleBox" HorizontalAlignment="Left" Margin="139,213,0,0" VerticalAlignment="Top" Width="237" Height="36" SelectionChanged="ComboBox_Style_SelectionChanged" Grid.Column="2"/>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

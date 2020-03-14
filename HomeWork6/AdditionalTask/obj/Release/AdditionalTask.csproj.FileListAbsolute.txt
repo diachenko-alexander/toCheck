@@ -1,0 +1,5 @@
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\AdditionalTask\bin\Release\AdditionalTask.exe.config
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\AdditionalTask\bin\Release\AdditionalTask.exe
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\AdditionalTask\bin\Release\AdditionalTask.pdb
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\AdditionalTask\obj\Release\AdditionalTask.exe
+C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\AdditionalTask\obj\Release\AdditionalTask.pdb

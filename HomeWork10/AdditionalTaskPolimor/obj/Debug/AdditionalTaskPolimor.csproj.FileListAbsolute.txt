@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\bin\Debug\AdditionalTaskPolimor.exe.config
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\bin\Debug\AdditionalTaskPolimor.exe
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\bin\Debug\AdditionalTaskPolimor.pdb
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\obj\Debug\AdditionalTaskPolimor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\obj\Debug\AdditionalTaskPolimor.exe
+C:\Users\Alex\source\repos\AdditionalTaskPolimor\AdditionalTaskPolimor\obj\Debug\AdditionalTaskPolimor.pdb

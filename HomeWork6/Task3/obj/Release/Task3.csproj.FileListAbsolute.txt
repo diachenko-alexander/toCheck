@@ -1,5 +1,0 @@
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task3\bin\Release\Task3.exe.config
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task3\bin\Release\Task3.exe
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task3\bin\Release\Task3.pdb
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task3\obj\Release\Task3.exe
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task3\obj\Release\Task3.pdb

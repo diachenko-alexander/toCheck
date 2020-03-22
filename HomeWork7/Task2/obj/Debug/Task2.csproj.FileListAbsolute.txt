@@ -1,6 +1,0 @@
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\bin\Debug\Task2.exe.config
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\bin\Debug\Task2.exe
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\bin\Debug\Task2.pdb
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\obj\Debug\Task2.exe
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork7\Task2\obj\Debug\Task2.pdb

@@ -1,4 +1,0 @@
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task2\bin\Debug\Task2.dll
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task2\bin\Debug\Task2.pdb
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task2\obj\Debug\Task2.dll
-C:\Users\Alex\source\repos\csharpProfessionalHW\HomeWork6\Task2\obj\Debug\Task2.pdb
